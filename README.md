@@ -1,3 +1,15 @@
-# lireddit
+# Apollo Graphql React Blog
 
-code for https://youtu.be/I6ypD7qv3Z8
+This is React blog demo built with Apollo Graphql.
+
+- React
+- TypeScript
+- GraphQL
+- URQL/Apollo
+- Node.js
+- PostgreSQL
+- MikroORM/TypeORM
+- Redis
+- Next.js
+- TypeGraphQL
+- Chakra
